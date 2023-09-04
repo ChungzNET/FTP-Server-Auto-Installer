@@ -6,7 +6,14 @@ Auto Installer FTP Server in Linux. This script provides an automated way to ins
 
 ## OS Requirements
 
-- Linux
+- Ubuntu 18
+- Ubuntu 20
+- Ubuntu 22
+- Ubuntu 23
+- Debian 9
+- Debian 10
+- Debian 11
+- Other Distro
 
 ## How To Use
 
