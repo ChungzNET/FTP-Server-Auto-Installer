@@ -13,4 +13,12 @@ Auto Installer FTP Server in Linux. This script provides an automated way to ins
 1. Clone this repository to your Linux system.
 
    ```bash
-   $ git clone https://github.com/your-username/ftp-server-auto-installer.git
+   $ git clone https://github.com/ChungzNET/FTP-Server-Auto-Installer
+   $ cd FTP-Server-Auto-Installer
+   $ chmod +x ./setup.sh
+   $ ./setup.sh
+
+## Start
+
+   ```bash
+   $ ./setup.sh
