@@ -1,0 +1,3 @@
+Now, your ftp server has been configured
+You can login to your ftp server with your server ip address and username & password.
+
