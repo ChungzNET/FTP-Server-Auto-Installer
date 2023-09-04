@@ -18,5 +18,8 @@ sudo apt install ufw -y
 sudo ufw allow 20/tcp
 sudo ufw allow 21/tcp
 sudo ufw reload
+sudo apt install nmap -y
+nmap localhost
+cd /home/ftpserver/ftp
 cat successfully.txt
 
